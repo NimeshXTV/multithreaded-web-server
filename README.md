@@ -1,6 +1,6 @@
 # Multithreaded Web Server (Java)
 
-A simple multithreaded client-server application built using Java sockets, threads, and thread pools.
+A multithreaded client-server application built using Java sockets, threads, and thread pools.
 
 ## Features
 - TCP socket communication
